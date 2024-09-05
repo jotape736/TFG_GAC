@@ -218,7 +218,7 @@ export function App () {
                 <label htmlFor='my-drawer' aria-label='close sidebar' className='drawer-overlay' />
                 <ul className='menu bg-base-200 text-base-content min-h-full w-80 p-4'>
                   {/* Sidebar content here */}
-                  <li><a>Log In</a></li>
+                  <li><a>Iniciar sesión</a></li>
                   <li><a>Registrarse</a></li>
                   <li><a>Mis horarios</a></li>
                   <li><a>Contacto</a></li>
