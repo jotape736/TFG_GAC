@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app-buttonSubject {
+    margin: 0;
+    background: #e04d09;
+    font-family: system-ui;;
+}
+
+.calendar_default_event_inner,
+.calendar_default_alldayevent_inner {
+  border: 2px solid rgb(153, 153, 153);
+}
